@@ -1,0 +1,13 @@
+title     : Skills &amp; Proficiency
+skills:
+  - name  : Mathematics
+    level : 95%
+
+  - name  : History
+    level : 60%
+
+  - name  : Psychology
+    level : 50%
+
+  - name  : Sociology
+    level : 30%

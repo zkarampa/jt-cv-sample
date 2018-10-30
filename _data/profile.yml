@@ -1,0 +1,22 @@
+#Profile information
+name      : Hari Seldon
+tagline   : First Psychohistorian
+# avatar:  https://avatars3.githubusercontent.com/u/7737887?s=460&v=4
+avatar    :  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+summary:
+  title   : Career Profile
+  text    : "Hari Seldon is a fictional character in Isaac Asimov's Foundation series.
+  In his capacity as mathematics professor at Streeling University on the planet Trantor,
+  Seldon develops psychohistory, an algorithmic science that allows him to predict the
+  future in probabilistic terms. On the basis of his psychohistory he is able to predict
+  the eventual fall of the Galactic Empire and to develop a means to shorten the millennia
+  of chaos to follow. "
+
+#sidebar links
+email     : hari@seldon
+phone     : 1234567890
+website   : en.wikipedia.org/wiki/Hari_Seldon  #do not add http://
+linkedin  :
+github    :
+twitter   :
