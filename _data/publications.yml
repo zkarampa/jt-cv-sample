@@ -1,14 +1,14 @@
-# title           : Publications
-# intro           : ""
-# publications:
-#   - title       : ""
-#     authors     : ""
-#     conference  : ""
-#
-#   - title       : ""
-#     authors     : ""
-#     conference  : ""
-#
-#   - title       : ""
-#     authors     : ""
-#     conference  : ""
+title           : Publications
+intro           : ""
+publications:
+  - title       : "How to predict the future through history and Psychology"
+    authors     : "H.Seldon"
+    conference  : "Decennial Convention on Trantor, 11,178 G.E"
+
+  # - title       : ""
+  #   authors     : ""
+  #   conference  : ""
+  #
+  # - title       : ""
+  #   authors     : ""
+  #   conference  : ""
