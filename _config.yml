@@ -3,7 +3,7 @@ title: My Resume
 baseurl: '/resume' #change it according to your repository name
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: ceramic # blue turquoise green berry orange ceramic
+theme_skin: blue # blue turquoise green berry orange ceramic
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
 education_in_main: false
